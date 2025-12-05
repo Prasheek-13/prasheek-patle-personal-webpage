@@ -76,7 +76,7 @@
 <body>
 
 <header>
-    <img src="images/WhatsApp Image 2025-07-19 at 17.07.41_0402a885.jpg" 
+    <img src="https://github.com/Prasheek-13/prasheek-patle-personal-webpage/blob/main/WhatsApp%20Image%202025-07-19%20at%2017.07.41_0402a885.jpg?raw=true" 
          alt="an image of Prasheek" 
          style="width:100px;height:auto;border-radius:50px;box-shadow:0 4px 10px rgba(0,0,0,0.3);" />
     <h1>Prasheek Patle</h1>
